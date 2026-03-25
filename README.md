@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi there 👋, I'm Ravikant
 
 🚀 Passionate Developer | 💡 Problem Solver | 🤖 Tech Enthusiast  
@@ -35,8 +35,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: 
-- 📧 Email:prajapatiravikant006@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/ravikant-prajapati-714701295/
+- 📧 Email: prajapatiravikant006@gmail.com
 
 ---
 
