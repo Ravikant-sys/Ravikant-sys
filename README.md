@@ -217,6 +217,72 @@ export default Ravikant;
 
 ---
 
+<!-- ══════════════  PRIVATE / CLASSIFIED REPOS  ══════════════ -->
+
+<div align="center">
+
+### 🔒 `CLASSIFIED — PRIVATE REPOSITORIES`
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="38%" valign="middle">
+
+```
+         , ,\ ,'\,'\ ,'\ ,\ ,
+   ,  ;\/ \' `'     `   '  /|
+   |\/                      |
+   :                        |
+   :                        |
+    |                       |
+    |                       |
+    :               -.     _|
+     :                \     `.
+     |         ________:______\
+     |       ,'o       / o    ;
+     :       \       ,'-----./
+      \_      `--,--'        )
+     ,` `.             ,---'|
+     : `                    |
+      `,-'                  |
+      /      ,---.         ,'
+   ,-'            `-,-----'
+  '   `.        ,--'
+        `-.____/
+                    \
+```
+
+</td>
+<td width="62%" valign="middle">
+
+```
+  ┌──────────────────────────────────────────┐
+  │  ⚠  RESTRICTED ACCESS · CLEARANCE LVL 9 │
+  ├──────────────────────────────────────────┤
+  │                                          │
+  │  > scanning sector ...........  DONE     │
+  │  > private repos detected ....  ██████   │
+  │  > access level .............. OWNER     │
+  │  > status .................... LOCKED 🔒 │
+  │                                          │
+  │  These repos are cooking in the dark.    │
+  │  Some things are better left unseen      │
+  │  until launch day. 👁                    │
+  │                                          │
+  │  [ REDACTED ]  [ CLASSIFIED ]            │
+  │  [ TOP SECRET ]  [ EYES ONLY ]           │
+  │                                          │
+  │  — The watcher sees all, reveals none.   │
+  └──────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
 <!-- ══════════════  QUOTE SECTION  ══════════════ -->
 
 <div align="center">
