@@ -304,17 +304,11 @@ export default Ravikant;
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-%230d0d1a.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d0d1a&color=0A66C2" alt="LinkedIn"/>
 </a>
-<a href="https://x.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-%230d0d1a.svg?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d1a&color=ffffff" alt="X"/>
-</a>
 <a href="https://YOUR_PORTFOLIO.dev">
   <img src="https://img.shields.io/badge/Portfolio-%230d0d1a.svg?style=for-the-badge&logo=vercel&logoColor=00ffe7&labelColor=0d0d1a&color=00ffe7" alt="Portfolio"/>
 </a>
 <a href="mailto:YOUR_EMAIL@gmail.com">
   <img src="https://img.shields.io/badge/Email-%230d0d1a.svg?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d0d1a&color=EA4335" alt="Email"/>
-</a>
-<a href="https://discord.gg/YOUR_SERVER">
-  <img src="https://img.shields.io/badge/Discord-%230d0d1a.svg?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0d0d1a&color=5865F2" alt="Discord"/>
 </a>
 
 <br/><br/>
