@@ -80,6 +80,7 @@
 ║  YOLOv8       [████████████░░░░░░░░░░░░]  55%   GSL-Assembly-Vision          ║
 ║  Flask        [██████████████░░░░░░░░░░]  62%   FlipkartGrid · VeriLint      ║
 ║  Node.js      [████████████████░░░░░░░░]  70%   nptel-cloud-mcq              ║
+║  Spring Boot  [███████████████░░░░░░░░░]  65%   Java / Backend               ║
 ║                                                                              ║
 ║  TOOLS & DOMAINS                                                             ║
 ║  ─────────────────────────────────────────────────────────────              ║
