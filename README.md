@@ -242,19 +242,22 @@
 ---
 
 ```
-
   ╔══════════════════════════════════════════════════════════════════════╗
   ║  // UPLINK — CONNECT WITH THE AGENT                                  ║
   ╠══════════════════════════════════════════════════════════════════════╣
-  ║                                                                      ║
-  ║     |  LinkedIn  |──────────────► linkedin.com/in/ravikant-prajapati-714701295      ║
-  ║     |            |                                                   ║
-  ║     |  Portfolio |──────────────► YOUR_PORTFOLIO.dev                 ║
-  ║     |            |                                                   ║
-  ║     |  Email     |──────────────► prajapatiravikant006@gmail.com               ║
-  ║                                                                      ║
   ╚══════════════════════════════════════════════════════════════════════╝
 ```
+
+<div align="center">
+
+| Channel | Link |
+|:---:|:---|
+| `[ LinkedIn ]` | **[──────────────► ravikant-prajapati-714701295](https://www.linkedin.com/in/ravikant-prajapati-714701295/)** |
+| `[ LeetCode ]` | **[──────────────► RavikantPrajapati](https://leetcode.com/u/RavikantPrajapati/)** |
+| `[ Codeforces ]` | **[──────────────► ravikant50](https://codeforces.com/profile/ravikant50)** |
+| `[ Email ]` | **[──────────────► prajapatiravikant006@gmail.com](mailto:prajapatiravikant006@gmail.com)** |
+
+</div>
 
 ---
 
