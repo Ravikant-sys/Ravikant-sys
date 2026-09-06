@@ -1,75 +1,91 @@
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--          N E O   C I T Y  ·  G I T H U B   P R O F I L E           -->
-<!-- ████████████████████████████████████████████████████████████ -->
+<!-- ██████████████████████████████████████████████████████████████████ -->
+<!--        N E O   C I T Y  ·  G R I D  v 3 . 0  ·  R A V I K A N T  -->
+<!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<!-- ══════════════  ANIMATED TWINKLING BANNER  ══════════════ -->
-<a href="https://github.com/Ravikant-sys">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:00ffe7,100:bf00ff&height=220&section=header&text=NEO%20CITY&fontSize=78&fontAlignY=35&desc=Welcome%20to%20the%20Grid&descAlignY=58&descSize=22&fontColor=00ffe7&animation=twinkling" width="100%" alt="Neo City Banner"/>
-</a>
+<!-- ══════════════  HERO WAVE HEADER  ══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d2137,60:00ffe7,100:bf00ff&height=260&section=header&text=RAVIKANT&fontSize=90&fontAlignY=38&fontColor=00ffe7&desc=◈%20Full-Stack%20Developer%20◈%20Ravikant%20Grid%20◈&descAlignY=60&descSize=20&descColor=bf00ff&animation=twinkling&stroke=00ffe7&strokeWidth=2" width="100%" alt="Ravikant Hero"/>
 
-<!-- ══════════════  NEON TYPING EFFECT  ══════════════ -->
-<a href="https://github.com/Ravikant-sys">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=3000&pause=800&color=00FFE7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%E2%96%88+INITIALIZING+NEURAL+LINK...+%E2%96%88;%5B+DEVELOPER+%7C+BUILDER+%7C+DREAMER+%5D;Crafting+the+future%2C+one+commit+at+a+time." alt="Typing Animation"/>
-</a>
-
----
-
-<!-- ══════════════  NEON STATUS BADGES  ══════════════ -->
-[![Profile Views](https://komarev.com/ghpvc/?username=Ravikant-sys&color=00ffe7&style=for-the-badge&label=GRID+VISITORS)](https://github.com/Ravikant-sys)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ffe7?style=for-the-badge&logo=statuspage&logoColor=00ffe7)
-![Focus](https://img.shields.io/badge/FOCUS-FULL--STACK-bf00ff?style=for-the-badge&logo=googlechrome&logoColor=white)
-![City](https://img.shields.io/badge/ZONE-NEO%20CITY-0d0d1a?style=for-the-badge&logo=city&logoColor=00ffe7)
-
-</div>
-
----
-
-<!-- ══════════════  ABOUT THE DEVELOPER  ══════════════ -->
-
-<table>
-<tr>
-<td width="55%">
-
-```javascript
-/**
- * ╔═══════════════════════════════════╗
- * ║     N E O   C I T Y   A G E N T  ║
- * ╚═══════════════════════════════════╝
- */
-
-const developer = {
-  alias     : "Ravikant-sys",
-  zone      : "Neo City — Grid District 7",
-  mission   : "Building tomorrow's web, today",
-
-  os        : "Linux / WSL2",
-  editor    : "VS Code (Neon Edition)",
-  terminal  : "Ghostty + Zsh + Starship",
-
-  stack     : {
-    frontend  : ["React", "Next.js", "TypeScript"],
-    backend   : ["Node.js", "Express", "REST APIs"],
-    database  : ["PostgreSQL", "MongoDB", "Redis"],
-    tools     : ["Docker", "Git", "Vite", "Webpack"],
-  },
-
-  philosophy: "Clean code is a love letter to the future.",
-  status    : "🟢 Available for opportunities",
-};
-
-console.log(">> NEURAL LINK ESTABLISHED ✦");
-```
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ravikant-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffe7&icon_color=bf00ff&text_color=c9d1d9&ring_color=00ffe7&border_radius=12" width="100%" alt="GitHub Stats"/>
+<!-- ══════════════  ANIMATED NEON TYPING  ══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=600&color=00FFE7&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=▋+SYSTEM+BOOT+—+NEURAL+LINK+ACTIVE+▋;%5B%20JavaScript+·+TypeScript+·+React+·+Node.js+%5D;%5B%20Building+the+future%2C+one+commit+at+a+time+%5D;%5B%20Welcome+to+the+Grid%2C+Citizen+◈+%5D" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikant-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffe7&text_color=c9d1d9&border_radius=12" width="100%" alt="Top Languages"/>
+<!-- ══════════════  ANIMATED NEON STATUS ROW  ══════════════ -->
+<a href="https://github.com/Ravikant-sys">
+  <img src="https://komarev.com/ghpvc/?username=Ravikant-sys&color=00ffe7&style=for-the-badge&label=◈+GRID+VISITORS" alt="Profile Views"/>
+</a>
+<img src="https://img.shields.io/badge/⚡_STATUS-ONLINE-00ffe7?style=for-the-badge&labelColor=0d0d1a" alt="Status"/>
+<img src="https://img.shields.io/badge/🧠_ROLE-FULL--STACK_DEV-bf00ff?style=for-the-badge&labelColor=0d0d1a" alt="Role"/>
+<img src="https://img.shields.io/badge/🌐_ZONE-RAVIKANT-00ffe7?style=for-the-badge&labelColor=0d0d1a" alt="Zone"/>
+<img src="https://img.shields.io/badge/🔥_OPEN_TO-WORK-39d353?style=for-the-badge&labelColor=0d0d1a" alt="Open to Work"/>
+
+</div>
+
+<br/>
+
+<!-- ══════════════  NEON DIVIDER  ══════════════ -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+
+---
+
+<!-- ══════════════  ABOUT  ══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:0d1a2e&height=3&section=header" width="100%"/>
+
+<table width="100%">
+<tr>
+<td width="52%" valign="top">
+
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;`// AGENT PROFILE`
+
+```typescript
+/**
+ * ┌─────────────────────────────────────────┐
+ * │   N E O   C I T Y   —   A G E N T      │
+ * │   RAVIKANT · GRID DISTRICT 7            │
+ * └─────────────────────────────────────────┘
+ */
+
+interface Developer {
+  alias     : string;
+  zone      : string;
+  mission   : string;
+  stack     : TechStack;
+  status    : string;
+}
+
+const Ravikant: Developer = {
+  alias   : "Ravikant-sys",
+  zone    : "Ravikant · Grid District 7",
+  mission : "Architecting tomorrow's web, today",
+
+  stack   : {
+    languages : ["JavaScript", "TypeScript"],
+    frontend  : ["React ⚛", "Next.js", "Vite"],
+    backend   : ["Node.js", "Express", "REST"],
+    database  : ["PostgreSQL", "MongoDB", "Redis"],
+    devOps    : ["Docker", "Git", "Linux", "Vercel"],
+  },
+
+  currentlyLearning : ["WebGL", "Three.js", "Rust"],
+  funFact  : "I debug with console.log and I am not ashamed.",
+  status   : "🟢 Available for opportunities",
+};
+
+export default Ravikant;
+```
+
+</td>
+<td width="48%" valign="top" align="center">
+
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/> &nbsp;`// STATS TERMINAL`
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ravikant-sys&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffe7&icon_color=bf00ff&text_color=c9d1d9&ring_color=00ffe7&border_radius=14&include_all_commits=true" width="100%" alt="GitHub Stats"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikant-sys&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffe7&text_color=c9d1d9&border_radius=14&langs_count=8" width="100%" alt="Top Languages"/>
 
 </td>
 </tr>
@@ -77,47 +93,56 @@ console.log(">> NEURAL LINK ESTABLISHED ✦");
 
 ---
 
-<!-- ══════════════  STREAK STATS  ══════════════ -->
+<!-- ══════════════  STREAK POWER GRID  ══════════════ -->
 
 <div align="center">
 
-### `⚡ POWER GRID — COMMIT STREAK`
+### ⚡ `POWER GRID — COMMIT STREAK` ⚡
 
-<img src="https://streak-stats.demolab.com?user=Ravikant-sys&theme=tokyonight&hide_border=true&background=0d0d1a&ring=00ffe7&fire=bf00ff&currStreakLabel=00ffe7&sideLabels=bf00ff&dates=8b949e&border_radius=12" width="70%" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=Ravikant-sys&theme=tokyonight&hide_border=true&background=0d0d1a&ring=00ffe7&fire=bf00ff&currStreakLabel=00ffe7&sideLabels=bf00ff&dates=8b949e&border_radius=14&stroke=00ffe710&date_format=j%20M%5B%20Y%5D" width="75%" alt="Streak Stats"/>
 
 </div>
 
 ---
 
-<!-- ══════════════  TECH STACK  ══════════════ -->
+<!-- ══════════════  SKILL GRID  ══════════════ -->
 
 <div align="center">
 
-### `🛸 ARSENAL — TECH STACK`
+### 🛸 `ARSENAL — SKILL GRID`
+
+<!-- FRONTEND -->
+<img src="https://img.shields.io/badge/─────────────────%20FRONTEND%20─────────────────-0d0d1a?style=for-the-badge&labelColor=0d0d1a&color=00ffe7" alt="Frontend"/>
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-0d0d1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-0d0d1a?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-0d0d1a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-0d0d1a?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-0d0d1a?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,vite&theme=dark&perline=8" alt="Frontend Skills"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Vite-0d0d1a?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Docker-0d0d1a?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d0d1a?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-0d0d1a?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-0d0d1a?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis"/>
-</p>
+<!-- BACKEND -->
+<img src="https://img.shields.io/badge/─────────────────%20BACKEND%20──────────────────-0d0d1a?style=for-the-badge&labelColor=0d0d1a&color=bf00ff" alt="Backend"/>
 
 <p>
-  <img src="https://img.shields.io/badge/Git-0d0d1a?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-0d0d1a?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0d0d1a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Figma-0d0d1a?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Vercel-0d0d1a?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,graphql&theme=dark&perline=8" alt="Backend Skills"/>
 </p>
+
+<!-- DEVOPS & TOOLS -->
+<img src="https://img.shields.io/badge/─────────────────%20TOOLS%20%26%20DEVOPS%20─────────────-0d0d1a?style=for-the-badge&labelColor=0d0d1a&color=00ffe7" alt="Tools"/>
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,figma,vercel,github,postman&theme=dark&perline=8" alt="Tools"/>
+</p>
+
+</div>
+
+---
+
+<!-- ══════════════  3-COLUMN STATS CARDS  ══════════════ -->
+
+<div align="center">
+
+### 📊 `METRICS DASHBOARD`
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ravikant-sys&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffe7&icon_color=bf00ff&text_color=c9d1d9&border_radius=14&hide_title=false&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" width="55%" alt="Extended Stats"/>
 
 </div>
 
@@ -127,9 +152,25 @@ console.log(">> NEURAL LINK ESTABLISHED ✦");
 
 <div align="center">
 
-### `🏆 HALL OF FAME — TROPHIES`
+### 🏆 `HALL OF FAME — TROPHIES`
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ravikant-sys&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ravikant-sys&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" width="100%" alt="Trophies"/>
+
+</div>
+
+---
+
+<!-- ══════════════  SNAKE ANIMATION  ══════════════ -->
+
+<div align="center">
+
+### 🐍 `THE GRID — CONTRIBUTION SNAKE`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ravikant-sys/Ravikant-sys/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravikant-sys/Ravikant-sys/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Ravikant-sys/Ravikant-sys/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -139,9 +180,9 @@ console.log(">> NEURAL LINK ESTABLISHED ✦");
 
 <div align="center">
 
-### `🌐 THE GRID — CONTRIBUTION MAP`
+### 🌐 `THE GRID — CONTRIBUTION MAP`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravikant-sys&bg_color=0d0d1a&color=00ffe7&line=bf00ff&point=ffffff&area=true&area_color=00ffe720&hide_border=true&custom_title=NEO%20CITY%20%C2%B7%20COMMIT%20GRID&title_color=00ffe7&radius=8" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravikant-sys&bg_color=0d0d1a&color=00ffe7&line=bf00ff&point=00ffe7&area=true&area_color=00ffe715&hide_border=true&custom_title=◈%20RAVIKANT%20·%20COMMIT%20GRID%20◈&title_color=00ffe7&radius=8&grid_color=00ffe710" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -151,26 +192,24 @@ console.log(">> NEURAL LINK ESTABLISHED ✦");
 
 <div align="center">
 
-### `🚀 LAUNCH PADS — FEATURED PROJECTS`
+### 🚀 `LAUNCH PADS — FEATURED PROJECTS`
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🌆 Project Alpha
-> A next-generation full-stack web app built with React + Node.js
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Ravikant-sys&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffe7&icon_color=bf00ff&text_color=c9d1d9&border_radius=12)](https://github.com/Ravikant-sys/YOUR_REPO_1)
+<a href="https://github.com/Ravikant-sys/YOUR_REPO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravikant-sys&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffe7&icon_color=bf00ff&text_color=c9d1d9&border_radius=14&description_lines_count=2" width="100%" alt="Project Alpha"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Project Beta
-> Blazing-fast TypeScript API with real-time capabilities
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Ravikant-sys&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffe7&icon_color=bf00ff&text_color=c9d1d9&border_radius=12)](https://github.com/Ravikant-sys/YOUR_REPO_2)
+<a href="https://github.com/Ravikant-sys/YOUR_REPO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravikant-sys&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffe7&icon_color=bf00ff&text_color=c9d1d9&border_radius=14&description_lines_count=2" width="100%" alt="Project Beta"/>
+</a>
 
 </td>
 </tr>
@@ -178,30 +217,52 @@ console.log(">> NEURAL LINK ESTABLISHED ✦");
 
 ---
 
-<!-- ══════════════  SOCIAL LINKS  ══════════════ -->
+<!-- ══════════════  QUOTE SECTION  ══════════════ -->
 
 <div align="center">
 
-### `📡 UPLINK — CONNECT WITH ME`
+### 💬 `TRANSMISSION — DAILY QUOTE`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter/X](https://img.shields.io/badge/X%20%2F%20Twitter-0d0d1a?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d1a?style=for-the-badge&logo=vercel&logoColor=00ffe7)](https://YOUR_PORTFOLIO.dev)
-[![Email](https://img.shields.io/badge/Email-0d0d1a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-0d0d1a?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/YOUR_SERVER)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quoteCategory=programming" alt="Dev Quote" width="80%"/>
 
 </div>
 
 ---
 
-<!-- ══════════════  FOOTER WAVE  ══════════════ -->
+<!-- ══════════════  SOCIAL UPLINK  ══════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf00ff,50:00ffe7,100:0d0d1a&height=130&section=footer&animation=twinkling" width="100%" alt="Footer Wave"/>
+### 📡 `UPLINK — CONNECT WITH ME`
 
-<sub>
-  <code>⟦ NEO CITY · GRID v2.0 · Made with ⚡ & ☕ ⟧</code>
-</sub>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-%230d0d1a.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d0d1a&color=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/YOUR_TWITTER">
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-%230d0d1a.svg?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d1a&color=ffffff" alt="X"/>
+</a>
+<a href="https://YOUR_PORTFOLIO.dev">
+  <img src="https://img.shields.io/badge/Portfolio-%230d0d1a.svg?style=for-the-badge&logo=vercel&logoColor=00ffe7&labelColor=0d0d1a&color=00ffe7" alt="Portfolio"/>
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%230d0d1a.svg?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d0d1a&color=EA4335" alt="Email"/>
+</a>
+<a href="https://discord.gg/YOUR_SERVER">
+  <img src="https://img.shields.io/badge/Discord-%230d0d1a.svg?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0d0d1a&color=5865F2" alt="Discord"/>
+</a>
 
+<br/><br/>
+
+<!-- Animated snake of dots -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_snake.svg" width="100%" alt="Snake Footer"/>
+
+</div>
+
+<!-- ══════════════  FOOTER WAVE  ══════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf00ff,40:00ffe7,80:0d1a2e,100:0a0a1a&height=150&section=footer&animation=twinkling&fontColor=00ffe7" width="100%" alt="Footer"/>
+
+<div align="center">
+  <sub><code>◈ ─────────── [ RAVIKANT · GRID v3.0 · RAVIKANT-SYS ] ─────────── ◈</code></sub><br/>
+  <sub><code>⟦ Built with ⚡ TypeScript · React · Node.js · and a lot of ☕ ⟧</code></sub>
 </div>
