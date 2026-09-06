@@ -219,7 +219,7 @@
   ║  // UPLINK — CONNECT WITH THE AGENT                                  ║
   ╠══════════════════════════════════════════════════════════════════════╣
   ║                                                                      ║
-  ║     |  LinkedIn  |──────────────► linkedin.com/in/YOUR_LINKEDIN      ║
+  ║     |  LinkedIn  |──────────────► linkedin.com/in/ravikant-prajapati-714701295      ║
   ║     |            |                                                   ║
   ║     |  Portfolio |──────────────► YOUR_PORTFOLIO.dev                 ║
   ║     |            |                                                   ║
