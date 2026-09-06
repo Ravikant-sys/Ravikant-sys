@@ -301,15 +301,9 @@ export default Ravikant;
 
 ### 📡 `UPLINK — CONNECT WITH ME`
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-%230d0d1a.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d0d1a&color=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="https://YOUR_PORTFOLIO.dev">
-  <img src="https://img.shields.io/badge/Portfolio-%230d0d1a.svg?style=for-the-badge&logo=vercel&logoColor=00ffe7&labelColor=0d0d1a&color=00ffe7" alt="Portfolio"/>
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%230d0d1a.svg?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d0d1a&color=EA4335" alt="Email"/>
-</a>
+[🔵 LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) &nbsp;·&nbsp;
+[🌐 Portfolio](https://YOUR_PORTFOLIO.dev) &nbsp;·&nbsp;
+[📧 Email](mailto:YOUR_EMAIL@gmail.com)
 
 <br/><br/>
 
