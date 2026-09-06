@@ -223,7 +223,7 @@
   ║     |            |                                                   ║
   ║     |  Portfolio |──────────────► YOUR_PORTFOLIO.dev                 ║
   ║     |            |                                                   ║
-  ║     |  Email     |──────────────► YOUR_EMAIL@gmail.com               ║
+  ║     |  Email     |──────────────► prajapatiravikant006@gmail.com               ║
   ║                                                                      ║
   ╚══════════════════════════════════════════════════════════════════════╝
 ```
