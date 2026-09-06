@@ -216,6 +216,34 @@
 
 ```
   ╔══════════════════════════════════════════════════════════════════════╗
+  ║  // COMPETITIVE.PROGRAMMING — LIVE STATS                             ║
+  ║                                                                      ║
+  ║    _________                _________                                ║
+  ║   |         |              |         |                               ║
+  ║   | LEET    |              | CODEFOR |                               ║
+  ║   | CODE    |   vs   ⚔️   | CES     |                               ║
+  ║   |_________|              |_________|                               ║
+  ║                                                                      ║
+  ║   Stats refresh automatically on every profile visit  🔄            ║
+  ╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+<a href="https://leetcode.com/u/RavikantPrajapati/">
+  <img src="https://leetcard.jacoblin.cool/RavikantPrajapati?theme=dark&font=source_code_pro&ext=heatmap&border=0&radius=0&animation=false" width="49%" alt="LeetCode Stats"/>
+</a>
+<a href="https://codeforces.com/profile/ravikant50">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ravikant50&theme=dark&force_username=true&border_color=00ffe7&title_color=00ffe7&text_color=c9d1d9&bg_color=0d0d1a" width="49%" alt="Codeforces Stats"/>
+</a>
+
+</div>
+
+---
+
+```
+
+  ╔══════════════════════════════════════════════════════════════════════╗
   ║  // UPLINK — CONNECT WITH THE AGENT                                  ║
   ╠══════════════════════════════════════════════════════════════════════╣
   ║                                                                      ║
