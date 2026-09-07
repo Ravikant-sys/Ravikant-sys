@@ -28,8 +28,8 @@ const me = {
 **stats**
 
 <div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ravikant-sys&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffe7&icon_color=bf00ff&text_color=c9d1d9&ring_color=00ffe7" width="49%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ravikant-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00ffe7&text_color=c9d1d9" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravikant-sys&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ravikant-sys&theme=tokyonight" width="49%"/>
 </div>
 
 ---
